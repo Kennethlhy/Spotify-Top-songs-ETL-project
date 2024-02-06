@@ -3,7 +3,7 @@
 
 
 # Project Overview
-![image](https://github.com/Kennethlhy/Spotify-Top-songs-ETL-project/assets/118910691/f49e66bc-976f-4795-ae09-48184205adce)
+![image](https://github.com/Kennethlhy/Spotify-Top-songs-ETL-project/assets/118910691/54e5a2cd-a19d-4905-80f4-bdae0358a6ba)
 
 
 # Spotify Top 50 Global Songs (data extract)
