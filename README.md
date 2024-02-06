@@ -8,7 +8,7 @@
 
 # Spotify Top 50 Global Songs (data extract)
 Use spotify API to get json data 
-https://open.spotify.com/playlist/37i9dQZEVXbMDoHDwVN2tF
+![image](https://github.com/Kennethlhy/Spotify-Top-songs-ETL-project/assets/118910691/1aea790a-3ca9-4650-b805-bd8e5249ae63)
 
 
 # Data Structure in datawarehouse
